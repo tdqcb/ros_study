@@ -1,0 +1,2 @@
+nav_demo:urdf02_gazebo:utf01_rviz
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/Documents/ros/demo05_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/Documents/ros/demo05_ws/install -G Unix Makefiles

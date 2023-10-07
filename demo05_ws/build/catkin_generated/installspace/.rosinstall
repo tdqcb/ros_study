@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/Documents/ros/demo05_ws/install/setup.sh

@@ -1,0 +1,5 @@
+<robot name="mycar" xmlns:xacro="http://www.ros.org/wiki/xacro">
+    <!-- 属性封装 -->
+    <xacro:property name="PI" value="3.1415927" />
+    <xacro:property name="base_link_length" value="0.08" />
+</robot>
